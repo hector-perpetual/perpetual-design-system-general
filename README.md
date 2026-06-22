@@ -1,3 +1,8 @@
+> ⚠️ **Repo archivado / obsoleto.** Este repositorio fue consolidado en
+> **[`perpetual-design-system-2`](https://github.com/hector-perpetual/perpetual-design-system-2)**,
+> que es ahora la **fuente de verdad única** de la marca (design system + template).
+> Usa solo ese repo. Este se mantiene en solo lectura por historial.
+
 # Perpetual Design System
 
 Fuente de verdad del sistema de diseño de **Perpetual Technologies**, empaquetada como skill de Claude. Define tokens de color, tipografía ArminGrotesk, logos (color y fondo oscuro), espaciado, componentes y reglas de marca, de forma agnóstica al formato.
